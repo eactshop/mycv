@@ -68,6 +68,7 @@ body {
     margin-left: 20px;
 }
 .content-description{
+    display: flex;
     font-size: 15px;
     margin-top: 5px;
     margin-left: 20px;
@@ -87,4 +88,10 @@ body {
 }
 .mgl10{
     margin-left: 10px;
+}
+.start-ta{
+   
+}
+.cd-text{
+    width: 130px;
 }
